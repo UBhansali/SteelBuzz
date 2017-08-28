@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6254" systemVersion="14B25" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6247"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="KGk-i7-Jjw" customClass="MemberDetailHeaderTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="nZ5-dJ-21D">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </imageView>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="nbh-1e-y1M">
+                        <rect key="frame" x="0.0" y="8" width="28" height="28"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="nbh-1e-y1M" secondAttribute="height" multiplier="1:1" id="baW-XO-Mfp"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CPW-3t-2FN">
+                        <rect key="frame" x="36" y="11" width="276" height="21"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="nZ5-dJ-21D" secondAttribute="trailing" id="DRu-zq-0Am"/>
+                    <constraint firstAttribute="bottom" secondItem="nZ5-dJ-21D" secondAttribute="bottom" id="JUB-eN-bxA"/>
+                    <constraint firstItem="nZ5-dJ-21D" firstAttribute="leading" secondItem="nbh-1e-y1M" secondAttribute="leading" id="LbJ-pX-DAt"/>
+                    <constraint firstItem="CPW-3t-2FN" firstAttribute="leading" secondItem="nbh-1e-y1M" secondAttribute="trailing" constant="8" id="QYa-Lp-0YY"/>
+                    <constraint firstItem="nZ5-dJ-21D" firstAttribute="centerY" secondItem="nbh-1e-y1M" secondAttribute="centerY" id="bOu-sY-Eq4"/>
+                    <constraint firstItem="CPW-3t-2FN" firstAttribute="trailing" secondItem="nZ5-dJ-21D" secondAttribute="trailing" constant="-8" id="cRh-dw-smf"/>
+                    <constraint firstItem="nZ5-dJ-21D" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="m5t-UE-1xL"/>
+                    <constraint firstItem="nZ5-dJ-21D" firstAttribute="height" secondItem="nbh-1e-y1M" secondAttribute="height" multiplier="43:28" id="ocJ-82-Emv"/>
+                    <constraint firstItem="nZ5-dJ-21D" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="v44-Ch-6eC"/>
+                    <constraint firstItem="CPW-3t-2FN" firstAttribute="centerY" secondItem="nZ5-dJ-21D" secondAttribute="centerY" id="xDQ-6m-SFY"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="imgLeft" destination="nbh-1e-y1M" id="ArI-Mi-gH1"/>
+                <outlet property="lblContent" destination="CPW-3t-2FN" id="2yx-uV-kij"/>
+            </connections>
+            <point key="canvasLocation" x="161" y="310"/>
+        </tableViewCell>
+    </objects>
+</document>
