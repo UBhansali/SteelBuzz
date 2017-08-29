@@ -29,7 +29,7 @@ App Screenshots
 
 About
 -------------
-Steel Buzz was founded in January 2015. The application was created in association with Sanghavi Bothra Engineering, the largest stock holders on Nickel Alloy products in India to help the growing Stainless Steel Industry. Steel Buzz is smart virtual directory with features like Product Listings, Smart Dialer, and Buzz Storm, which connects the Steel Industry around the globe. The application also caters millions of people who buy, sell and trade Stainless Steel and Nickel Alloy products on a day to day basis.
+Steel Buzz was founded in January 2015. The app was developed in association with Sanghavi Bothra Engineering, the largest stock holders of Nickel Alloy products in India. For emerging Steel Market, Steel Buzz is a smart virtual directory with features like Product Listings, Smart Dialer, and Buzz Storm. It connects domestic Steel Industry to global market, which wasn't accessible prior to Steel Buzz. The application also caters millions of people who buy, sell and trade Stainless Steel and Nickel Alloy products on daily basis.
 
 Member Profile Screenshots
 -------------
