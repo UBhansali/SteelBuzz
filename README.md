@@ -39,8 +39,9 @@ Member Profile Screenshots
   <img src="http://i.imgur.com/qQZIpLJ.jpg" width="200" /> 
   </p>
 
-App Icon 
+App Icons 
 -------------
 <p float="left">
   <img src="http://i.imgur.com/fYP5kfb.png" width="300" />
+  <img src="http://i.imgur.com/ktbtT52.png" width="300" />
    </p>
