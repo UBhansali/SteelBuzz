@@ -75,3 +75,9 @@ Splash Screens
   <img src="http://i.imgur.com/MSOvbNh.png" width="500" />
   <img src="http://i.imgur.com/G714kiO.png" width="500" />
   </p>
+  
+  Newsletter
+ -------------
+<p float="left">
+  <img src="https://i.imgur.com/2WctxVq.jpg" width="500" />
+</p>
