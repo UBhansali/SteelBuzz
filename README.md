@@ -64,9 +64,14 @@ Splash Screens
  Draft Production of Logo 
 -------------
 <p float="left">
-  <img src="http://i.imgur.com/EaCS6EO.jpg" width="300" />
-  ----------
-  <img src="http://i.imgur.com/7zsqd36.png" width="300" />
-  ----------
-  <img src="http://i.imgur.com/TNoiK6a.jpg" width="300" />
+  <img src="http://i.imgur.com/EaCS6EO.jpg" width="500" />
+  <img src="http://i.imgur.com/7zsqd36.png" width="500" />
+  <img src="http://i.imgur.com/TNoiK6a.jpg" width="500" />
  </p>
+ 
+ Logo In Use
+ -------------
+ <p float="left">
+  <img src="http://i.imgur.com/MSOvbNh.png" width="500" />
+  <img src="http://i.imgur.com/G714kiO.png" width="500" />
+  </p>
