@@ -34,6 +34,7 @@ Steel Buzz was founded in January 2015. The app was developed in association wit
 Member Profile Screenshots
 -------------
 <p float="left">
+  <img src="http://i.imgur.com/sjgntKB.png" width="200" />
   <img src="http://i.imgur.com/avoIbLU.jpg" width="200" />
   <img src="http://i.imgur.com/RwQqhrT.jpg" width="200" /> 
   <img src="http://i.imgur.com/qQZIpLJ.jpg" width="200" /> 
@@ -42,6 +43,6 @@ Member Profile Screenshots
 App Icons 
 -------------
 <p float="left">
-  <img src="http://i.imgur.com/fYP5kfb.png" width="300" />
+  <img src="http://i.imgur.com/4oTvZtD.png" width="300" />
   <img src="http://i.imgur.com/ktbtT52.png" width="300" />
    </p>
