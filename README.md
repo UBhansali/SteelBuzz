@@ -1,4 +1,4 @@
-![enter image description here](http://i.imgur.com/R7D39Tf.png "Steel Buzz")
+![Steel Buzz](http://i.imgur.com/R7D39Tf.png "Steel Buzz")
 ===================
 Steel Buzz is an intelligent marketplace app focused on connecting local Indian Steel Manufacturing companies to global
 market. Its time to transform your business from local shop to global entity
@@ -64,7 +64,9 @@ Splash Screens
  Draft Production of Logo 
 -------------
 <p float="left">
-  <img src="http://i.imgur.com/EaCS6EO.jpg" width="500" />
-  <img src="http://i.imgur.com/7zsqd36.png" width="500" />
-  <img src="http://i.imgur.com/TNoiK6a.jpg" width="500" />
+  <img src="http://i.imgur.com/EaCS6EO.jpg" width="300" />
+  ----------
+  <img src="http://i.imgur.com/7zsqd36.png" width="300" />
+  ----------
+  <img src="http://i.imgur.com/TNoiK6a.jpg" width="300" />
  </p>
