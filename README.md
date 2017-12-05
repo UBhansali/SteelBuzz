@@ -45,4 +45,26 @@ App Icons
 <p float="left">
   <img src="http://i.imgur.com/4oTvZtD.png" width="300" />
   <img src="http://i.imgur.com/ktbtT52.png" width="300" />
-   </p>
+ </p>
+   
+Splash Screens 
+-------------
+<p float="left">
+  <img src="http://i.imgur.com/PhwmxjN.jpg" width="200" />
+  <img src="http://i.imgur.com/BbKpaxb.jpg" width="200" />
+  <img src="http://i.imgur.com/zb9z6AX.jpg" width="200" />
+ </p>
+ 
+ Banner 
+-------------
+<p float="left">
+  <img src="https://i.imgur.com/JIJ5bB0.jpg" width="500" />
+ </p>
+
+ Draft Production of Logo 
+-------------
+<p float="left">
+  <img src="http://i.imgur.com/EaCS6EO.jpg" width="500" />
+  <img src="http://i.imgur.com/7zsqd36.png" width="500" />
+  <img src="http://i.imgur.com/TNoiK6a.jpg" width="500" />
+ </p>
